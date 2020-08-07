@@ -16,8 +16,8 @@ https://github.com/edyrcosta/nlw2-backend
 
 ## Front-end
 
-https://github.com/edyrcosta/nlw-frontend
+https://github.com/edyrcosta/nlw2-frontend
 
 ## Mobile
 
-https://github.com/edyrcosta/nlw-mobile
+https://github.com/edyrcosta/nlw2-mobile
